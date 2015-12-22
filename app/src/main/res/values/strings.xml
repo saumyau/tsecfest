@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tsec Fest</string>
+
+    <string name="Search">Enter the Fest or committee name!</string>
+    <string name="Committee">Committee</string>
+    <string name="Fests">Fests</string>
+    <string name="action_settings">Settings</string>
+</resources>
